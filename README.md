@@ -6,7 +6,7 @@
 
 **`👨‍💻 Desenvolvedor Front-End`**
 
-Muito prazer, me chamo Nathã, tenho 21 anos e sou mais um apaixonado por tecnologia aqui no Rio Grande do Sul 🧉 onde nasci! Concluí meu ensino médio na escola Adventista de Cachoeirinha. Atualmente estou cursando o 5º semestre Ciência da Computação na Cesuca. Buscando muitos conhecimentos na área front, mas com objetivo de alcançar habilidades FullStack!
+Muito prazer, me chamo Nathã, tenho 21 anos e sou mais um apaixonado por tecnologia aqui no Rio Grande do Sul 🧉 onde nasci! Concluí meu ensino médio na escola Adventista de Cachoeirinha. Atualmente estou cursando o 6º semestre Ciência da Computação na Cesuca. Buscando muitos conhecimentos na área front, mas com objetivo de alcançar habilidades FullStack!
 
 <p align="left">
 <a href="https://github.com/Nathan-Focus?tab=repositories&sort=stargazers">
